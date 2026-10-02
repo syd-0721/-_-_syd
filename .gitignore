@@ -1,0 +1,16 @@
+# ── Large binary files (too big for GitHub 100MB limit) ──
+*.run
+myenv/resources/*.zip
+myenv/resources/*.tgz
+myenv/resources/*.tar.gz
+myenv/resources/*.deb
+
+# ── OS generated ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ───────────────────────────────────────────────
+.vscode/
+*.swp
+*~

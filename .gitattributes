@@ -1,0 +1,7 @@
+* text=auto
+
+# Shell scripts always use LF
+*.sh text eol=lf
+
+# Markdown
+*.md text eol=lf
